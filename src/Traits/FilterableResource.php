@@ -2,7 +2,7 @@
 
 namespace MSML\FilterableResource\Traits;
 
-trait ResourceFilterable
+trait FilterableResource
 {
     /**
      * Fields to filter out of the resource.
