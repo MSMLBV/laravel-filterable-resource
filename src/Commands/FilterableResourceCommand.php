@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace MSML\FilterableResource\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class FilterableResourceCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-filterable-resource';
 
     public $description = 'My command';
 
