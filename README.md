@@ -1,5 +1,5 @@
 
-[<img src="https://banners.beyondco.de/Filterable%20Resources.png?theme=light&packageManager=composer+require&packageName=msmlbv%2Flaravel-filterable-resource&pattern=architect&style=style_1&description=+Make+it+possible+to+dynamically+filter+out+fields+in+your+resources.&md=1&showWatermark=0&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg" />](https://msml.nl)
+[<img src="https://banners.beyondco.de/Filterable%20Resource.png?theme=light&packageManager=composer+require&packageName=msml%2Flaravel-filterable-resource&pattern=architect&style=style_1&description=+Make+it+possible+to+dynamically+filter+out+fields+in+your+resources.&md=1&showWatermark=0&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg" />](https://msml.nl)
 
 # Make it possible to dynamically filter out fields in your resources.
 
