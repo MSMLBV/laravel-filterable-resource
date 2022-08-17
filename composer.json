@@ -1,5 +1,5 @@
 {
-    "name": "msmlbv/laravel-filterable-resource",
+    "name": "msml/laravel-filterable-resource",
     "description": "Make it possible to dynamically filter out fields in your resources.",
     "keywords": [
         "MSMLBV",
